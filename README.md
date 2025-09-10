@@ -58,4 +58,4 @@ My personal portfolio built with React & HTML/CSS.
 ## 📫 Contact Me
 
 ✉️ **Email:** [hatice.yslv36@gmail.com](mailto:hatice.yslv36@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/haticeyesilova](https://www.linkedin.com/in/hatice-yesilova/)
+🔗 **LinkedIn:** [linkedin.com/in/hatice-yesilova](https://www.linkedin.com/in/hatice-yesilova/)
