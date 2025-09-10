@@ -39,10 +39,10 @@ I love building projects, solving problems, and exploring new technologies. Alwa
 
 ## 🏗️ Projects
 
-✨ **Todo App**  
-A simple task manager built with React and Redux Toolkit.  
+✨ **Friendship App**  
+A social platform to connect with friends, built with Node.js (backend) and React (frontend). Features user authentication, profiles, and friend requests.  
 🔗 [GitHub Link - Backend](https://github.com/haticeyesilova/friendship-app-backend)  
-🔗 [GitHub Link - Frontend](https://github.com/haticeyesilova/friendship-app-frontend) 
+🔗 [GitHub Link - Frontend](https://github.com/haticeyesilova/friendship-app-frontend)  
 
 ✨ **Blog Site**  
 A blog platform built with Node.js and React, featuring CRUD operations and user authentication.  
